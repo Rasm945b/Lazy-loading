@@ -1,0 +1,8 @@
+main{
+    width: 50%;
+    margin: 0 auto;
+}
+article{
+    border: 3px solid pink;
+    margin: 10px;
+}
